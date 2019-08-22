@@ -76,7 +76,7 @@ DOWNLOADER_MIDDLEWARES = {
 ITEM_PIPELINES = {
     'sjtiantang.pipelines.pptFilePipline': 1,
 }
-FILES_STORE = r'D:\\ppt\\'
+FILES_STORE = r'D:\\sjtiantang\\'
 FILES_EXPIRES = 90
 
 # Enable and configure the AutoThrottle extension (disabled by default)
